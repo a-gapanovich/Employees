@@ -1,0 +1,88 @@
+C:\Users\lenovo\source\repos\Employee database\Employee database\obj\Debug\Employee database.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Employee database\Employee database\obj\Debug\Employee_database.Employees.resources
+C:\Users\lenovo\source\repos\Employee database\Employee database\obj\Debug\Employee_database.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Employee database\Employee database\obj\Debug\Employee database.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Employee database\Employee database\obj\Debug\Employee database.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Employee database\Employee database\bin\Debug\Employee database.exe.config
+C:\Users\lenovo\source\repos\Employee database\Employee database\bin\Debug\Employee database.exe
+C:\Users\lenovo\source\repos\Employee database\Employee database\bin\Debug\Employee database.pdb
+C:\Users\lenovo\source\repos\Employee database\Employee database\obj\Debug\Employee database.exe
+C:\Users\lenovo\source\repos\Employee database\Employee database\obj\Debug\Employee database.pdb
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Employee database.exe.config
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Employee database.exe
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Employee database.pdb
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee_database.Employees.resources
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee_database.Properties.Resources.resources
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee database.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee database.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee database.exe
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee database.pdb
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\EnvDTE.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\stdole.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee database.csproj.CopyComplete
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee_database.Form2.resources
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\source\repos\старый\Employee database\obj\Debug\Employee database.csproj.AssemblyReference.cache
